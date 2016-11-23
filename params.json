@@ -1,0 +1,6 @@
+{
+  "name": "Emb",
+  "tagline": "",
+  "body": "<p>Votre nom (obligatoire)\r\n[text* your-name] </p>\r\n\r\n<p>Votre prénom (obligatoire)\r\n[text* your-first-name] </p>\r\n\r\n<p>Votre email (obligatoire)\r\n[email* your-email] </p>\r\n\r\n<p>Choisir une séance (obligatoire) [select your-time \"Séance 1 : 8h\" \"Séance 2 : 10h\" \"Séance 3 : 12h\" \"Séance 4 : 14h\" \"Séance 5 : 16h\"] </p>\r\n\r\n<p>Choisir deux véhicules [checkbox {display;block} vehicule_souhaite \"GLC\" \"GLC Coupé 250\" \"A 220 4M\" \"C Break 250\" \"GLE Coupé\" \"GLA 220\"] </p>\r\n\r\n/>Ma case à cocher 1<br /> <input name=\"pouet[]\" style=\"vertical-align: middle\r\n\r\n<p>[submit \"Envoyer\"]</p>\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
